@@ -37,15 +37,15 @@ nav a {
     flex: 1;
     padding: 20px;
     padding: 20px 15%;
-    text-align: center;
+    text-align: left;
 }
 
 
 div h2{
 
-    color: #ede6d9; 
+    color: white; 
     margin-bottom: 20px;
-    text-align: center;
+    text-align: left;
     font-size: 35px;
    
 }
@@ -112,4 +112,22 @@ strong{
     max-width: 32%;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+    flex-basis: 30%;
+    background-color: #f7f4f2;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.project img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.project p {
+    margin-top: 15px;
 }
