@@ -21,5 +21,6 @@ Welcome to the repository for my personal website! This site serves as a digital
 ## Getting Started
 
 If you're interested in checking out the code or running the site locally:
+https://github.com/janenyc/personal-website/tree/main
 
 
